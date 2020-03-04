@@ -1,3 +1,4 @@
-CREATE TABLE planeten(
-	naam int
+INSERT INTO planeten VALUES(
+ "Aarde"
 );
+SELECT * FROM planeten;
